@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "366047220818",
+    "project_id": "samsung-db-9d686",
+    "storage_bucket": "samsung-db-9d686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366047220818:android:6c3c745eb001a42c34bb8b",
+        "android_client_info": {
+          "package_name": "com.example.samsug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366047220818-7o4v16vtjd1qifd7075vnhq4ur78o285.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRiUBnqvqX6VHZz7fUVl1yiC5ogQnSo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366047220818-7o4v16vtjd1qifd7075vnhq4ur78o285.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366047220818-r5an59ojf2p19l6b9tr0kmmgr98ui4ck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.samsug"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
